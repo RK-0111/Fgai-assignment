@@ -1,0 +1,13 @@
+Model,Temperature,Distinct-1,Distinct-2,Repetition Rate
+Simple RNN,0.3,0.653,0.847,0.043
+Simple RNN,0.7,0.813,0.972,0.0
+Simple RNN,1.2,0.827,0.958,0.0
+Bidirectional RNN,0.3,0.56,0.778,0.087
+Bidirectional RNN,0.7,0.733,0.972,0.0
+Bidirectional RNN,1.2,0.947,1.0,0.0
+LSTM,0.3,0.68,0.875,0.043
+LSTM,0.7,0.72,0.944,0.014
+LSTM,1.2,0.813,0.986,0.0
+GRU,0.3,0.547,0.75,0.087
+GRU,0.7,0.773,0.944,0.0
+GRU,1.2,0.867,0.986,0.0

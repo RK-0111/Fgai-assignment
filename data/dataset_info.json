@@ -1,0 +1,16 @@
+{
+    "dataset_name": "The Adventures of Sherlock Holmes (Selected Stories)",
+    "author": "Sir Arthur Conan Doyle",
+    "source": "Project Gutenberg (eBook #1661)",
+    "source_url": "https://www.gutenberg.org/files/1661/1661-0.txt",
+    "total_characters": 241689,
+    "total_tokens": 52249,
+    "vocabulary_size": 2500,
+    "raw_unique_tokens": 5300,
+    "average_word_length": 4.09,
+    "stories_included": [
+        "I. A Scandal in Bohemia",
+        "II. The Red-Headed League",
+        "III. A Case of Identity"
+    ]
+}

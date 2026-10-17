@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environment (if created)
+.venv/
+env/
+venv/

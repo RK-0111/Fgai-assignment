@@ -1,0 +1,5 @@
+Model,Parameters,Train Loss,Val Loss,Val Perplexity,Val Top-1 Acc (%),Val Top-5 Acc (%),Training Time (s)
+Simple RNN,708548,4.5351,5.1805,177.78,15.01,36.54,51.13
+Bidirectional RNN,692164,4.4007,5.2302,186.84,15.32,36.5,86.17
+LSTM,906692,4.6602,5.123,167.84,15.17,36.35,94.69
+GRU,840644,4.4772,5.097,163.53,16.32,37.19,146.44

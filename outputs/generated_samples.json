@@ -1,0 +1,326 @@
+[
+    {
+        "model": "Simple RNN",
+        "temperature": 0.3,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and the door of his wife, and then, and that i was a upon his wife, and the same of a sort and",
+        "distinct_1": 0.6,
+        "distinct_2": 0.833,
+        "repetition_rate": 0.087
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 0.3,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the room, and the photograph of the wood. i shall be some to find his wife, and i have a great of the",
+        "distinct_1": 0.76,
+        "distinct_2": 0.917,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 0.3,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i have been well, and you have been good to find the same of the case of the letter, and the same of",
+        "distinct_1": 0.6,
+        "distinct_2": 0.792,
+        "repetition_rate": 0.043
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 0.7,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and yet. there must be a man of his mouth, and laughed, as the king or two way, and the photograph,",
+        "distinct_1": 0.8,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 0.7,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the room of a room for the house. he had been one with his hand, and we have the whole last which. he",
+        "distinct_1": 0.84,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 0.7,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i have been one to the assizes of the inquest. you is all is my hands that i went all, with the way",
+        "distinct_1": 0.8,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 1.2,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and for. his uncle and my chair by a consideration of an wood. i was never one of it. i do tell you",
+        "distinct_1": 0.84,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 1.2,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the high of the wood. i have to me me to take that i have not do him and sit open. there? he",
+        "distinct_1": 0.8,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Simple RNN",
+        "temperature": 1.2,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that in the case; he had brought the singular man, she a face of our year, which would do me in the ground",
+        "distinct_1": 0.84,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.3,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and of the door, and the adventure of the corner of the time, and i have been young of the case of the door",
+        "distinct_1": 0.52,
+        "distinct_2": 0.75,
+        "repetition_rate": 0.043
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.3,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the door, and i have not have been was to me. i have not have been upon the other. i have not been",
+        "distinct_1": 0.56,
+        "distinct_2": 0.708,
+        "repetition_rate": 0.217
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.3,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i am not have been, and he said that he had been come. i had been good, and i have been the",
+        "distinct_1": 0.6,
+        "distinct_2": 0.875,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.7,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and now, and i was that i am the more of the very thing, and the other was not mind, holmes, as",
+        "distinct_1": 0.68,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.7,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the society. his wife at the bell and very much? i was that the door. it is this was upon the room.",
+        "distinct_1": 0.8,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 0.7,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that the advertisement, and we do in the door, with the corner newspaper of no. i was in the floor of ballarat.",
+        "distinct_1": 0.72,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 1.2,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and i thought at to some great day from any flight the man are was no upon my hand. the last, you was his",
+        "distinct_1": 0.92,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 1.2,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the corner which but his friend man as a house, i may up? me did it was this is not only have some carriage",
+        "distinct_1": 1.0,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "Bidirectional RNN",
+        "temperature": 1.2,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i am something father s a lady voice of all, and his pocket, now. yes were obvious you see by me.",
+        "distinct_1": 0.92,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.3,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and the man, and he had be to a father, and you have not have to a man, and he was not be",
+        "distinct_1": 0.56,
+        "distinct_2": 0.792,
+        "repetition_rate": 0.087
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.3,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the man, and i have not be done to the man, but that you have not be him to be a very hand.",
+        "distinct_1": 0.72,
+        "distinct_2": 0.875,
+        "repetition_rate": 0.043
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.3,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that he was a little man, and i have come to be him to the other of the man. i have been a thing",
+        "distinct_1": 0.76,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.7,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and him in the inside, and i have not the light of the note and in the street of the note as mr, i",
+        "distinct_1": 0.6,
+        "distinct_2": 0.875,
+        "repetition_rate": 0.043
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.7,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the hand, and the wife. it had have a more pool, and there is the very man, so holmes, but you",
+        "distinct_1": 0.8,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 0.7,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that the little will go. the head of a thing, and yet you have be be to a house and upon the light of",
+        "distinct_1": 0.76,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 1.2,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and good that that what made so there is be in the other, it, well s little man. he went down anything he",
+        "distinct_1": 0.88,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 1.2,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the more pool, but that you should do there had done you to be from your hand. i have that her the hand,",
+        "distinct_1": 0.84,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "LSTM",
+        "temperature": 1.2,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that he should have to have have a. holmes, it is in me to take the house a. what is that holmes at",
+        "distinct_1": 0.72,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.3,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and, and yet the door of the house of the adventure of the case of the light. i have been been to be the",
+        "distinct_1": 0.64,
+        "distinct_2": 0.875,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.3,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the door, and the other of the singular of the case of the light of the case of the case of the facts of the",
+        "distinct_1": 0.4,
+        "distinct_2": 0.583,
+        "repetition_rate": 0.261
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.3,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i have that to be you. i am a man. i have not be to be me to be to do, but",
+        "distinct_1": 0.6,
+        "distinct_2": 0.792,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.7,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and ready of an room. but he was a man, who was averse at his companion. the wind man of irene. the",
+        "distinct_1": 0.76,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.7,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the case. he had a most positive of his mouth, and the same of his extraordinary, he was at his head, and",
+        "distinct_1": 0.72,
+        "distinct_2": 0.917,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 0.7,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that i have been to be some room. you would go that he had not more to be not. they never a old father",
+        "distinct_1": 0.84,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 1.2,
+        "seed": "it was a dark and",
+        "generated_text": "it was a dark and his date, well his friend story we should for the cellar of january to saxe any man to see anything, the game was",
+        "distinct_1": 0.84,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 1.2,
+        "seed": "holmes looked at the",
+        "generated_text": "holmes looked at the man, and how they have not our mind. however, then the house of he left i took it all by. however",
+        "distinct_1": 0.88,
+        "distinct_2": 0.958,
+        "repetition_rate": 0.0
+    },
+    {
+        "model": "GRU",
+        "temperature": 1.2,
+        "seed": "i have no doubt that",
+        "generated_text": "i have no doubt that you must am, with my wife, and i shall just me to think not be a note and a very scandal about for",
+        "distinct_1": 0.88,
+        "distinct_2": 1.0,
+        "repetition_rate": 0.0
+    }
+]
