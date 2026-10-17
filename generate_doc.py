@@ -6,11 +6,11 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
 
 def create_submission_doc(
-    student_name="[Your Name]",
+    student_name="Rusheel Reddy",
     reg_number="[Your Registration Number]",
-    repo_url="https://github.com/YourUsername/Autoregressive-Text-Generation-FGAI",
-    output_docx="YourName_RegNum_FGAI_Assignment2.docx",
-    output_pdf="YourName_RegNum_FGAI_Assignment2.pdf"
+    repo_url="https://github.com/RK-0111/Fgai-assignment",
+    output_docx="RusheelReddy_RegNum_FGAI_Assignment2.docx",
+    output_pdf="RusheelReddy_RegNum_FGAI_Assignment2.pdf"
 ):
     doc = Document()
 
